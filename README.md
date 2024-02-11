@@ -8,7 +8,7 @@ I love coding
 
 * 🌍  I'm based in Thailand
 * 🖥️  See my portfolio at [See My Portfolio](http://sdsdsdsdsdsdsdsdsdsddsd)
-* ✉️  You can contact me at [Snowmansoybad@gmail.com](mailto:Snowmansoybad@gmail.com)
+* ✉️  You can contact me at [Snowmansoybad@gmail.com](mailto:snowmansoybad@gmail.com)
 * 🧠  I'm learning Html css javascript about Web Development
 
 ### Skills
