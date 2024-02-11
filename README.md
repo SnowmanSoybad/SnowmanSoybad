@@ -31,7 +31,7 @@ I love coding
 
 <b>My GitHub Stats</b>
 
-<div id="header" align="center">
+<div id="header" align="grid">
 <a href="http://www.github.com/SnowmanSoybad"><img src="https://github-readme-stats.vercel.app/api?username=SnowmanSoybad&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=22c55e&icon_color=000000&bg_color=000000&hide_border=true&show_icons=true" alt="SnowmanSoybad's GitHub stats" /></a>
 
 <a href="http://www.github.com/SnowmanSoybad"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SnowmanSoybad&stroke=ef4444&background=000000&ring=3382ed&fire=3382ed&currStreakNum=ef4444&currStreakLabel=3382ed&sideNums=ef4444&sideLabels=ef4444&dates=ef4444&hide_border=true" /></a>
