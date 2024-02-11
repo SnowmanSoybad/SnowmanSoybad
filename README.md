@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ==========================================================================================================================================
 
 <div id="header" align="center">
-  <img src="https://media1.tenor.com/m/Ir3fMRFe6JkAAAAd/getfake-getreal.gif" width="100"/>
+  <img src="https://media1.tenor.com/m/Ir3fMRFe6JkAAAAd/getfake-getreal.gif" width="200"/>
 </div>
 
 Web Developer
