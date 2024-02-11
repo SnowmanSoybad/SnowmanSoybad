@@ -30,12 +30,14 @@ I love coding
 ### Badges
 
 <b>My GitHub Stats</b>
-main {
-display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
+<div>
 <a href="http://www.github.com/SnowmanSoybad"><img src="https://github-readme-stats.vercel.app/api?username=SnowmanSoybad&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=22c55e&icon_color=000000&bg_color=000000&hide_border=true&show_icons=true" alt="SnowmanSoybad's GitHub stats" /></a>
 
 <a href="http://www.github.com/SnowmanSoybad"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SnowmanSoybad&stroke=ef4444&background=000000&ring=3382ed&fire=3382ed&currStreakNum=ef4444&currStreakLabel=3382ed&sideNums=ef4444&sideLabels=ef4444&dates=ef4444&hide_border=true" /></a>
 
 <a href="https://github.com/SnowmanSoybad" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnowmanSoybad&langs_count=10&title_color=3382ed&text_color=ef4444&icon_color=000000&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-}
+</div>
+div {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  }
